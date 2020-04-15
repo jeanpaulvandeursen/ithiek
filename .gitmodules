@@ -1,0 +1,6 @@
+[submodule "themes/syna"]
+	path = themes/syna
+	url = https://git.okkur.org/syna-start
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
